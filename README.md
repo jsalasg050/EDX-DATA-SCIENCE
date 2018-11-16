@@ -1,2 +1,2 @@
 # EDX-DATA-SCIENCE
-COurse  learning repo
+Course  learning repo
